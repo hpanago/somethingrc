@@ -1,9 +1,11 @@
 # somethingrc
-Keeping track of my .*rc files turns out usefull
 
-### bashrc
+
+ :sunglasses: Keeping track of my .*rc files turns out usefull
+
+
+### .bashrc preview
 ```
-(master) hpanago@chaos:{~/somethingrc}[20:59:42]
->:$ 
+[hpanago@gravity_falls][/home/hpanago/my_github/somethingrc] [master !*]
+[22:52:38][$]> 
 ```
-with ```master``` being white, and the rest of it magenta.
