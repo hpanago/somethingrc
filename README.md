@@ -1,7 +1,7 @@
 # somethingrc
 
 
- :sunglasses: Keeping track of my .*rc files turns out usefull
+ :sunglasses: Keeping track of my .*rc files turns out useful
 
 
 ### .bashrc preview
